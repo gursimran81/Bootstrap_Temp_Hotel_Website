@@ -1,0 +1,14 @@
+:root{--light:#F4F1ED;--dark:#623E2A}
+#banner {background: url('hotel\ \(13\).jpg'); color: white; background-position: center; background-size: cover;}
+#banner div {background: rgba(98, 62, 42, 0.6); padding: 120px 0px; }
+.tag {letter-spacing: 4pt;}
+.text-justify{ text-align: justify;}
+
+.bg-theme-light{background:var(--light);}
+.bg-theme-dark{background:var(--dark);}
+.fg-theme-dark{color: var(--dark);}
+.border-theme{border-color: var(--dark) !important;}
+
+#feedback{background: url('hotel\ \(14\).jpg'); color: white;
+background-position: center; background-size: cover;}
+.layer{background: rgba(98, 62, 42, 0.6);}
